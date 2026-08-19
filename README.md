@@ -1,2 +1,0 @@
--- Flashcard Web Application --
---          By DD            --
